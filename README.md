@@ -1,4 +1,9 @@
 php_foundation
 ==============
 
-Projeto Code Education - PHP Foundation
+Curso Code Education - PHP Foundation
+
+Projeto de um site simples.
+
+Fábio Tavares.
+
