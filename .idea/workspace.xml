@@ -26,7 +26,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="38" selection-start="478" selection-end="478" vertical-scroll-proportion="0.3115693" vertical-offset="0" max-vertical-offset="873">
+            <state line="19" column="52" selection-start="608" selection-end="608" vertical-scroll-proportion="0.36998853" vertical-offset="0" max-vertical-offset="873">
               <folding />
             </state>
           </provider>
@@ -89,7 +89,7 @@
       <file leaf-file-name="menu.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/menu.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="47" selection-start="175" selection-end="175" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="289">
+            <state line="4" column="27" selection-start="155" selection-end="155" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="374">
               <folding />
             </state>
           </provider>
@@ -126,12 +126,12 @@
         <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/erro.php" />
         <option value="$PROJECT_DIR$/contato.php" />
-        <option value="$PROJECT_DIR$/menu.php" />
         <option value="$PROJECT_DIR$/enviar.php" />
         <option value="$PROJECT_DIR$/home.php" />
         <option value="$PROJECT_DIR$/empresa.php" />
         <option value="$PROJECT_DIR$/produtos.php" />
         <option value="$PROJECT_DIR$/servicos.php" />
+        <option value="$PROJECT_DIR$/menu.php" />
         <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
@@ -400,13 +400,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="47" selection-start="175" selection-end="175" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="289">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/home.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="0" selection-start="48" selection-end="1510" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="221">
@@ -449,9 +442,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="27" selection-start="155" selection-end="155" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="38" selection-start="478" selection-end="478" vertical-scroll-proportion="0.3115693" vertical-offset="0" max-vertical-offset="873">
+        <state line="19" column="52" selection-start="608" selection-end="608" vertical-scroll-proportion="0.36998853" vertical-offset="0" max-vertical-offset="873">
           <folding />
         </state>
       </provider>
