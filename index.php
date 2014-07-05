@@ -1,6 +1,7 @@
 <html>
     <head>
         <title>Home - Site simples - Fábio Tavares</title>
+        <meta http-equiv="content-type" content="text/html;charset=utf-8" />
         <!-- Bootstrap -->
         <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
     </head>
