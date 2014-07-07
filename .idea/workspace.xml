@@ -23,10 +23,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="33" selection-end="33" vertical-scroll-proportion="0.038946163" vertical-offset="0" max-vertical-offset="986">
+            <state line="22" column="0" selection-start="899" selection-end="899" vertical-scroll-proportion="-12.384615" vertical-offset="52" max-vertical-offset="1003">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="produtos.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/produtos.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="4" selection-start="1694" selection-end="1694" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="340">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="servicos.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/servicos.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="4" selection-start="1694" selection-end="1694" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="323">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="404.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/includes/404.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="6" selection-start="167" selection-end="167" vertical-scroll-proportion="0.077892326" vertical-offset="0" max-vertical-offset="873">
               <folding />
             </state>
           </provider>
@@ -51,15 +78,15 @@
         <option value="$PROJECT_DIR$/menu.php" />
         <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/empresa.php" />
-        <option value="$PROJECT_DIR$/includes/produtos.php" />
         <option value="$PROJECT_DIR$/includes/home.php" />
-        <option value="$PROJECT_DIR$/includes/404.php" />
         <option value="$PROJECT_DIR$/includes/empresa.php" />
         <option value="$PROJECT_DIR$/includes/enviar.php" />
-        <option value="$PROJECT_DIR$/includes/servicos.php" />
         <option value="$PROJECT_DIR$/includes/contato.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/includes/menu.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/includes/produtos.php" />
+        <option value="$PROJECT_DIR$/includes/servicos.php" />
+        <option value="$PROJECT_DIR$/includes/404.php" />
       </list>
     </option>
   </component>
@@ -130,6 +157,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="site_simples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site_simples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site_simples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -535,27 +576,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/includes/produtos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="6" selection-start="3377" selection-end="3377" vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="544">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/servicos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="6" selection-start="3377" selection-end="3377" vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="527">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/404.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="6" selection-start="120" selection-end="120" vertical-scroll-proportion="0.058419243" vertical-offset="0" max-vertical-offset="873">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/includes/empresa.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="6" selection-start="1529" selection-end="1529" vertical-scroll-proportion="0.17790698" vertical-offset="0" max-vertical-offset="860">
@@ -577,9 +597,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/includes/produtos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="4" selection-start="1694" selection-end="1694" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="33" selection-end="33" vertical-scroll-proportion="0.038946163" vertical-offset="0" max-vertical-offset="986">
+        <state line="22" column="0" selection-start="899" selection-end="899" vertical-scroll-proportion="-12.384615" vertical-offset="52" max-vertical-offset="1003">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/servicos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="4" selection-start="1694" selection-end="1694" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="6" selection-start="167" selection-end="167" vertical-scroll-proportion="0.077892326" vertical-offset="0" max-vertical-offset="873">
           <folding />
         </state>
       </provider>

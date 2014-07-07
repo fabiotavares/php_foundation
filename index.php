@@ -1,4 +1,5 @@
 <?php
+    header('HTTP/1.1 404 Not Found', false, "404");
     //Controle de rotas...
 
     //Obtém o nome da página que o usuário deseja visualizar
