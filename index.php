@@ -1,3 +1,34 @@
+<?php
+    //Controle de rotas...
+
+    //Obtém o nome da página que o usuário deseja visualizar
+    function getPaginaSolicitada() {
+        $rota = parse_url("http://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']);
+        //retorna o resultado sem o primeiro caracter (/) e em minúsculas
+        $pagina = strtolower(substr($rota["path"], 1));
+        if($pagina == "" || $pagina == "index" || $pagina == "index.php") {
+            header("location: http://".$_SERVER['HTTP_HOST']."/home");
+        }
+        return $pagina;
+    }
+
+    //Valida a rota solicitada retornando o caminho completo do recurso, caso exista!
+    function getRota() {
+        //rotas válidas no site:
+        $rotasValidas = array("contato", "empresa", "produtos", "servicos", "home");
+
+        //página solicitada pelo usuário:
+        $pagina = getPaginaSolicitada();
+
+        //verifica se a página solicitada existe dentro das rotas possíveis:
+        if(in_array($pagina, $rotasValidas)):
+            return "includes/".$pagina.".php";
+        else: //página não encontrada...
+            return "includes/404.php";
+        endif;
+    }
+?>
+
 <html>
     <head>
         <title>Home - Site simples - Fábio Tavares</title>
@@ -6,30 +37,16 @@
         <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
     </head>
 
-    <?php require_once("menu.php"); ?>
+    <div class="container">
+
+    <?php require_once("includes/menu.php"); ?>
 
     <body>
-    <div>
-        <?php
-            //armazena a página que deseja acessar
-            if(! isset($_GET["page"])){
-                $pagina = "home.php";
-            } else{
-                $pagina = $_GET["page"].".php";
-            }
-            //verifica se a página existe no sistema
-            if(file_exists($pagina))
-            {
-                require_once($pagina);
-            } else
-            {
-                require_once("erro.php");
-            }
-        ?>
-        <script src="http://code.jquery.com/jquery-latest.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-    </div>
+        <?php require_once(getRota()); ?>
     </body>
 
-    <?php require_once("footer.php"); ?>
+    <?php require_once("includes/footer.php"); ?>
+
+    </div>
+
 </html>

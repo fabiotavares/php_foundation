@@ -1,6 +1,6 @@
 <div>
 <hr>
-<footer class="pull-left">Todos os direitos reservados -
+<footer class="pull-right">Todos os direitos reservados -
     <?php
         //Ocultando warning
         error_reporting(0);
