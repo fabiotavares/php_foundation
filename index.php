@@ -1,4 +1,4 @@
-<?php require_once("includes/rotas.php"); ?>
+<?php require_once("functions/rotas.php"); ?>
 
 <html>
 <head>
@@ -10,13 +10,13 @@
 
 <div class="container">
 
-    <?php require_once("includes/menu.php"); ?>
+    <?php require_once("pages/menu.php"); ?>
 
     <body>
     <?php $getConteudo(); ?>
     </body>
 
-    <?php require_once("includes/footer.php"); ?>
+    <?php require_once("pages/footer.php"); ?>
 
 </div>
 
