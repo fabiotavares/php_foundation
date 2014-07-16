@@ -23,13 +23,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="paginas.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="paginas.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/paginas.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="9" selection-start="384" selection-end="384" vertical-scroll-proportion="0.22793296" vertical-offset="0" max-vertical-offset="895">
+            <state line="12" column="9" selection-start="384" selection-end="384" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="340">
               <folding>
                 <marker date="1405542516627" expanded="true" signature="76:133" placeholder="SELECT titul..paginas..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="84" selection-start="388" selection-end="388" vertical-scroll-proportion="0.22767857" vertical-offset="0" max-vertical-offset="896">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -78,10 +87,10 @@
         <option value="$PROJECT_DIR$/functions/conexao.php" />
         <option value="$PROJECT_DIR$/pages/contato.php" />
         <option value="$PROJECT_DIR$/pages/template1.php" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/pages/pesquisa.php" />
         <option value="$PROJECT_DIR$/functions/rotas.php" />
         <option value="$PROJECT_DIR$/pages/paginas.php" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -565,13 +574,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="84" selection-start="388" selection-end="388" vertical-scroll-proportion="0.22767857" vertical-offset="0" max-vertical-offset="896">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/functions/rotas.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1020">
@@ -625,10 +627,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/paginas.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="9" selection-start="384" selection-end="384" vertical-scroll-proportion="0.22793296" vertical-offset="0" max-vertical-offset="895">
+        <state line="12" column="9" selection-start="384" selection-end="384" vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="340">
           <folding>
             <marker date="1405542516627" expanded="true" signature="76:133" placeholder="SELECT titul..paginas..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="84" selection-start="388" selection-end="388" vertical-scroll-proportion="0.22767857" vertical-offset="0" max-vertical-offset="896">
+          <folding />
         </state>
       </provider>
     </entry>
