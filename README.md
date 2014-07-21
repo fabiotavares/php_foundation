@@ -2,12 +2,14 @@ Code Education
 ----
 - Módulo: PHP Foundation
 - Projeto: Site Simples
-- Fase: III (banco de dados)
+- Fase: IV (Área Administrativa)
 - Autor: Fábio Tavares
+- Data: 21/07/2014
 
 Observações
 ----
+- Execute fixtures.php (na raiz) para carregar os dados
 - Banco de dados: site_simples
-- Tabela: paginas (id, nome, titulo, conteudo)
-- Página functions: parametros.php, conexao.php, rotas.php e fixtures.php
-- Página pages: 404.php, menu.php, footer.php, contato.php, pesquisa.php e paginas.php
+- O sistema possui controle de sessão e tempo de inatividade
+- Usuário: admin
+- Senha: admin
